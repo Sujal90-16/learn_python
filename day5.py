@@ -1,6 +1,6 @@
 # Variables and Datatypes 
 # Variables
-a = 2587  #int datatype
+a = 25873  #int datatype
 print(a)
 Sujal = 58 #int datatype
 b = "Sujal" #string datatype
