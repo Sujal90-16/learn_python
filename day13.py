@@ -13,7 +13,7 @@ print("Your age is: ",age)
 if(age >= 18):
     print("Eligible to Drive")
 else:
-    print("You are not eligible to drive")
+    print("You are not eligible to Drive")
 print("Hello")
 
 
