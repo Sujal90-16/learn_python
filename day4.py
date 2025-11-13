@@ -10,5 +10,5 @@ print("Hello World")
 # triple single quote is also used for muti line comments
 # triple double quote  is also used for muti line comments
 print("this is a print statement")
-print("hey",6 , 7,sep="~",end="009\n")
+print("hey",9 , 7,sep="~",end="009\n")
 print("Sujal Singh")
