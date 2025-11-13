@@ -1,3 +1,6 @@
-while(i<=38):
-#     i = int(input("Enter the number: "))
-#     print(i)
+for i in range(12):
+#     if (i==10):
+#         break
+#     print("5 X",i+1,"=",5 *( i+1))
+    
+# print("Loop ko chodhkar nikal jao")
