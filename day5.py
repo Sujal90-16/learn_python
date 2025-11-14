@@ -3,7 +3,7 @@
 a = 25873  #int datatype
 print(a)
 Sujal = 58 #int datatype
-b = "Sujal" #string datatype
+b = "sujal" #string datatype
 print(b)
 c = True #boolean datatype
 d = None #none datatype
