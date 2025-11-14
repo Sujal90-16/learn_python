@@ -1,5 +1,5 @@
 # taking imput from user
-a = input("Enter your name: ")
+a = input("Enter your name : ")
 print("My name is ", a)
 x = input("Enter the first number: ")
 y = input("Enter the second number: ")
