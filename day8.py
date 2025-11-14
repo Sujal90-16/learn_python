@@ -1,7 +1,7 @@
 # Typecasting 
 a = "5"
 b = 5
-c = "10"
+c = "11"
 d = 10
 print(a+c)
 print(b+d)
