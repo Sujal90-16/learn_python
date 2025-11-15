@@ -1,7 +1,7 @@
 # Strings 
 name = "Sujal"
 friend = "Ashish"
-Afriend = 'Aman'
+Afriend = 'Amann'
 apple = '''He said , ' 
 hey Sujal
 Hey I am good 
