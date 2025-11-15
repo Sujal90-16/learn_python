@@ -11,7 +11,7 @@
 age = int(input("Enter your age: "))
 print("Your age is: ",age)
 if(age >= 18):
-    print("Eligible to Drive")
+    print("Eligible to drive")
 else:
     print("You are not eligible to Drive")
 print("Hello")
