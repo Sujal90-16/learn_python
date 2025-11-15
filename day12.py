@@ -5,7 +5,7 @@ print(len(a))
 print(a.upper())
 print(a.lower())
 print(a.rstrip("!"))
-print(a.replace("Sujal","Rohan"))
+print(a.replace("Sujal","rohan"))
 print(a.split(" "))
 
 blogHeading = "introduction tO jS"
