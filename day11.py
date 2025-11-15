@@ -12,7 +12,7 @@ print(fruit)
 print(len1)
 print("Mango is a ", len1 ,"letter word")
 
-pie = "Applepie"
+pie = "Applepiee"
 print(pie[:5])
 print(pie[6])
 print(pie[0:len(pie)-3])
