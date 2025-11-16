@@ -13,7 +13,7 @@ def isLesser(a,b):
     pass
 
 a = 9
-b = 8
+b = 10
 c = 8
 d = 7
 isGreater(a,b)
