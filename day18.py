@@ -1,5 +1,5 @@
 # Break and Continue Statements 
-for i in range(12):
+for i in range(13):
     if (i==10):
         break
     print("5 X",i+1,"=",5 *( i+1))
