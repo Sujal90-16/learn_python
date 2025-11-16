@@ -1,6 +1,6 @@
 # while loops
 i = 0
-while(i<3):
+while(i<4):
     print(i)
     i = i + 1
 
