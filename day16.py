@@ -1,5 +1,5 @@
 # for loops
-name = "Abhishek"
+name = "abhishek"
 for i in name:
     print(i,end=",")
 
