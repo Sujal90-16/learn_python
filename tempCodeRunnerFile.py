@@ -1,6 +1,9 @@
-for i in range(12):
-#     if (i==10):
-#         break
-#     print("5 X",i+1,"=",5 *( i+1))
-    
-# print("Loop ko chodhkar nikal jao")
+print(l)
+# l.append(10)
+# print(l)
+# l.sort()
+# print(l)
+# l.sort(reverse=True)
+# print(l)
+# l.reverse()
+# print(l)
