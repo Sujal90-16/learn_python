@@ -28,5 +28,5 @@ print(marks[1:4:2]) #JumpIndex
 #  list comprehension
 lst = [i for i in range(4)]
 print(lst)
-lst = [i*i for i in range(4) if i%2==0 ]
+lst = [i*i for i in range(7) if i%2==0 ]
 print(lst)
