@@ -6,7 +6,7 @@ average()
 
 # keyword arguements
 def average(a, b ):
-    print("The average is", (a+b)/2)
+    print("The Average is", (a+b)/2)
 average(a = 12, b = 10)
 
 # required arguements
