@@ -1,6 +1,6 @@
 # function arguements
 # default arguements
-def average(a = 5, b = 9):
+def average(a = 5, b = 10):
     print("The average is", (a+b)/2)
 average()
 
