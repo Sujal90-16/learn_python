@@ -3,6 +3,7 @@
 # f0 = 0
 # f1 = 1
 # f2 = f1 + f0
+# f3 = f2 + f1
 # fn = f(n-1) + f(n-2)
 
 def fibonacci(n):
