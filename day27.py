@@ -1,7 +1,7 @@
 # Recursion
 # factorial of a number n
 
-# factorial (8) = 8*7*6*5*4*3*2*1
+# factorial (9) = 9*8*7*6*5*4*3*2*1
 # factorial (0) = 1
 # factorial(n) = n*factorial(n-1)
 def factorial(n):
