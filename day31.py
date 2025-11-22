@@ -9,7 +9,7 @@ dicc = {
     321:"Shubham",
     230:"Sahil",
     454:"Rahul",
-    675:"Yash"
+    675:"Yashvikram"
 }
 print(dicc[321])
 
