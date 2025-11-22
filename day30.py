@@ -22,7 +22,7 @@ print(s1.isdisjoint(s2))
 print(s1.issuperset(s2))
 print(s1.issubset(s2))
 
-s1.add(12)
+s1.add(17)
 print(s1)
 s1.remove(2)
 print(s1)
